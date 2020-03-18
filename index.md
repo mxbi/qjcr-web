@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/uploads/2020/03/18/DSC_1286.JPG"
+banner_image: "/uploads/2020/03/18/DSC_1286_v2.jpg"
 layout: landing-page
 heading: Queens' College JCR
 partners:
@@ -30,6 +30,5 @@ menu:
   navigation:
     identifier: _index
     weight: 1
-published: false
 
 ---
